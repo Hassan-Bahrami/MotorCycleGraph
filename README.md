@@ -33,7 +33,7 @@ Here is an example of code to partitioning a quad mesh:
 python Motor.py ./models/6_rem_p0_0_quadrangulation_smooth.obj
 ```
 
-And here is a screenshot of the output:
+And below is a screenshot of the output. The left image is the inital quad-mesh and the righ image the partitioned quad-mesh by MotorCycleGraph.
 
 ![An example of MotorCycleGraph output](Models/example1.PNG)
 

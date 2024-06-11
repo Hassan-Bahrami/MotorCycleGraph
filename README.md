@@ -3,7 +3,7 @@ A Python implementation of MotorCycle Graph algorithm for Quad-Mesh partitioning
 
 This project is a Python project for patotioning a Quad-Mesh using MotorCycleGraph algorithm published by Eppstein et al (2008). You can find the orgignal paper in the following link:
 
-[<https://disneyanimation.com/publications/motorcycle-graphs-canonical-quad-mesh-partitioning)>]
+https://disneyanimation.com/publications/motorcycle-graphs-canonical-quad-mesh-partitioning
 
 ## Dependencies
 

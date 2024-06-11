@@ -1,7 +1,7 @@
 # MotorCycleGraph
 A Python implementation of MotorCycle Graph algorithm for Quad-Mesh partitioning
 
-This project is a Python project for patotioning a Quad-Mesh using MotorCycleGraph algorithm published by Eppstein et al (2008). You can find the orgignal paper in the following link:
+This is a Python project for partitioning a Quad-Mesh using the MotorCycleGraph algorithm published by Eppstein et al. (2008). You can find the original paper at the following link:
 
 https://disneyanimation.com/publications/motorcycle-graphs-canonical-quad-mesh-partitioning
 
@@ -20,20 +20,20 @@ You can install these dependencies using `pip`:
 pip install numpy matplotlib pyvista
 ```
 ## How to use
-To use the code, you need to run "Motor.py" following by the path to a quad-mesh you wish to partition it:
+To use the code, you need to run "Motor.py" following the path to a quad-mesh you wish to partition it:
 ```bash
 python Motor.py <path to your quad mesh>
 ```
-The code will process the mesh and show the inout mesh and the result of MotorCycleGraph algorithm side-by-side
+The code will process the mesh and show the input mesh and the result of the MotorCycleGraph algorithm side-by-side.
 
 ## Usage example
-Here is an example of code to partitioning a quad mesh:
+Here is an example of code for partitioning a quad mesh:
 
 ```bash
 python Motor.py ./models/6_rem_p0_0_quadrangulation_smooth.obj
 ```
 
-And below is a screenshot of the output. The left image is the inital quad-mesh and the righ image the partitioned quad-mesh by MotorCycleGraph.
+Below is a screenshot of the output. The left image is the initial quad-mesh, and the right image is the partitioned quad-mesh by MotorCycleGraph.
 
 ![An example of MotorCycleGraph output](Models/example1.PNG)
 

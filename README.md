@@ -35,6 +35,5 @@ python Motor.py ./models/6_rem_p0_0_quadrangulation_smooth.obj
 
 And here is a screenshot of the output:
 
-(./Mesh example/example1.png)
-
+![An example of MotorCycleGraph output](./Mesh example/example1.png)
 
